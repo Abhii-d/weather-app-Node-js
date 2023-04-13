@@ -4,6 +4,7 @@ const hbs = require("hbs");
 const forecast = require("./utils/forecast");
 const geocode = require("./utils/geocode");
 
+// console.log()
 // console.log(__dirname);
 // console.log(path.join(__dirname, "../public"));
 
